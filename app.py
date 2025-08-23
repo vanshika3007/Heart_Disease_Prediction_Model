@@ -83,7 +83,7 @@ else:
     st.warning(body)
     progress_bar = st.progress(0)
 
-
+st.markdown('Designed by: **Vanshika Bhardwaj**')
 
 
 
